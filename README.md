@@ -2,7 +2,7 @@
 
 Workshop Clean Code feito na semana Rumo ao Sucesso da UniCarioca.
 
-Esse Workshop se trata dos primeiros capítulos do livro do Código Limpo.
+Esse Workshop se trata dos primeiros capítulos do livro Código Limpo do autor Robert Cecil Martin.
 
 Aqui iremos postar os artefatos da apresentação e os códigos desenvolvidos para você tentar corrigir por conta propria a sua maneira.
 
