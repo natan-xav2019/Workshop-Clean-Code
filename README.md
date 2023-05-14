@@ -2,11 +2,15 @@
 
 Workshop Clean Code feito na semana Rumo ao Sucesso da UniCarioca.
 
-Esse Workshop se trata dos primeiros capítulos do livro Código Limpo do autor Robert Cecil Martin.
+Esse repositorio e sobre o primeiros capítulos do livro Código Limpo do autor Robert Cecil Martin.
 
 Aqui iremos postar os artefatos da apresentação e os códigos desenvolvidos para você tentar corrigir por conta propria a sua maneira.
 
 Abaixo está o passo a passo usado na apresentação.
+
+### duvidas:
+Como estalar o Dev C++ ?
+> Siga o seguinte video --> [link](https://www.youtube.com/watch?v=G6hvj64CnFw&ab_channel=KrBrTech)
 
 ## codigo a se aplicar o Clean Code.
 ``` c
